@@ -1,0 +1,39 @@
+
+Stack selected                - OS+s
+Toggle split selected         - OS+Shift+s
+(h split and v split)
+
+Toggle float                  - OS+Shift+Space
+Toggle fullscreen             - OS+f
+
+Next split vertical (stack)   - OS+v
+Next split horizontal (stack) - OS+h
+
+Resize mode - OS+Shift+b (biggify)
+- then:
+  - Left - shrink width
+  - Down - grow height
+  - Up   - shrink height
+  - Right- grow width
+Leave resize mode - Esc or Enter
+
+Reload config               - OS+Control+c
+Restart i3                  - OS+Control+r
+Exit i3                     - OS+Control+e
+Ctrl-Alt-Del                - Super+Shift+Mod+X
+Virtual terminal            - Super+Shift+V and
+                              F1 to F7
+
+Change focus                - OS+Arrow
+Move focused window         - OS+Shift+Arrow
+Move focused to workspace   - OS+Shift+q,
+     	                      OS+Shift+w,
+                              ...
+Switch to workspace         - OS+q, OS+w
+                              ...
+Move workspaces             - right - OS+Shift+>
+                            - left - OS+Shift+<
+
+Start a terminal            - OS+Return
+
+Close (kill) window         - OS+Shift+k
